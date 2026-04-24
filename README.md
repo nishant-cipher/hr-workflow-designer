@@ -17,8 +17,6 @@
 
 <br/>
 
-![App Preview](https://placehold.co/900x480/0f172a/818cf8?text=HR+Workflow+Designer+—+Canvas+Preview&font=montserrat)
-
 </div>
 
 ---
@@ -313,7 +311,7 @@ simulateWorkflow(graph: WorkflowGraph): Promise<SimulationResult>
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/hr-workflow-designer.git
+git clone https://github.com/nishant-cipher/hr-workflow-designer.git
 
 # 2. Navigate to the project
 cd hr-workflow-designer
@@ -431,10 +429,10 @@ Nothing in the canvas, store, or sidebar needs to change.
 
 ## 👤 Author
 
-Built by **[Your Name]** for the Tredence Studio AI Engineering Internship — 2025 Cohort.
+Built by **Nishant kr.** for the Tredence Studio AI Engineering Internship .
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@your-username](https://github.com/nishant-cipher)
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/nishcipher/)
 
 ---
 
