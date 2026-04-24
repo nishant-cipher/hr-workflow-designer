@@ -431,8 +431,8 @@ Nothing in the canvas, store, or sidebar needs to change.
 
 Built by **Nishant kr.** for the Tredence Studio AI Engineering Internship .
 
-- GitHub: [@your-username](https://github.com/nishant-cipher)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/nishcipher/)
+- GitHub: [@nishant-cipher](https://github.com/nishant-cipher)
+- LinkedIn: [nishcipher](https://www.linkedin.com/in/nishcipher/)
 
 ---
 
